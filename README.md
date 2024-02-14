@@ -20,27 +20,25 @@
 
 
 
-- 💻 &nbsp; J2SE | J2EE | C++ | C
+- 💻 &nbsp; Programming Languages: (Java | C++ | JavaScript)
 
-- 🌸 &nbsp; Spring | Spring Boot
+- 🌸 &nbsp; Frontend Development: (ReactJS | Tailwind CSS)
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind CSS | ReactJS
-
-- 🛢 &nbsp; JDBC | MySQL | MongoDB | Hibernate | Spring Data JPA
-
-- 🖥 &nbsp; Adobe XD | Figma
+- 🌐 &nbsp; Backend Development: (Java | Spring Boot | Spring Data JPA | Spring MVC | Spring Security)
+  
+- 🛢 &nbsp; Database: (MySQL)
 
 
 <!--
 
-
+- 🖥 &nbsp; Adobe XD | Figma
 -->
 
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker | Firebase
+- 🔧 &nbsp; AWS | Docker | Firebase | NextJs
 
 <hr>
 
