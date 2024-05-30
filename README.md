@@ -46,7 +46,7 @@
 
 <br/><br/>
 
-[![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oooye-raju&show_icons=true)](https://github.com/oooye-raju)
+[![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajuTechAssist&show_icons=true)](https://github.com/oooye-raju)
 
 <br/>
 
