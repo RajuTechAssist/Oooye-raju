@@ -63,13 +63,13 @@
 <hr>
 
 ### 📫 How to reach me:
-- Email : oooye.raju@gmail.com
+- Email : rajukumar319247@gmail.com
 - Twitter : [@Oooye_raju](https://twitter.com/Oooye_raju)
 - Linkedin : [@Raju_](https://www.linkedin.com/in/raju-52b130247/)
 - Portfolio : [Comming Soon] 
 
 <hr>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=oooye-raju.oooye-raju)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=RajuTechAssist.RajuTechAssist)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <hr>
